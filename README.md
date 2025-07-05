@@ -21,7 +21,3 @@ frontend/
 ---
 
 
-## 👨‍💻 Author
-
-**Shyam**  
-GitHub: [@your-username](https://github.com/your-username)
