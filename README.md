@@ -2,7 +2,7 @@
 
 ## URL Shortener App
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 frontend/
